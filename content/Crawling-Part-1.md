@@ -49,4 +49,9 @@ In the shell you are able to:
 
 In short, anything you can do in your spider, you can do in the shell. Note, this doesn't mean that you *should* do anything you can do in you spider in the shell. The shell is used primarily for testing and debugging purposes. 
 
+### Using the shell to analyze website-content
 
+So let's try to use the shell in a real setting with a page we could crawl. Let's take the [International Telecoms Week](https://www.internationaltelecomsweek.com), which is an "annual meeting for the global wholesale telecoms industry" ([Source](https://www.internationaltelecomsweek.com/about-itw)).
+Imagine we would like to crawl the companies attending ITW 2018, which can be looked up [here](https://www.internationaltelecomsweek.com/this-year/companies-attending). If you look at the website you will see that, neat, all the companies are listed on this page. You can scroll through the whole page, without having to worry about pagination or something like that. 
+
+![XKCD]({filename}/images/itw_companies.png)
