@@ -1,11 +1,12 @@
-Title: Crawling dynamically generated content with Scrapy
+Title: Crawling dynamically generated content with Scrapy - Part 1
 Date: 2017-11-21
 Category: Tutorial
 Tags: scrapy, python
-Summary: Learn how to crawl dynamic pages with Scrapy.
+Summary: Learn how to use the *scrapy shell* to assess why your spider does not return anything or if you need to change your spider.
 
 [One](https://stackoverflow.com/questions/33185651/python-scrapy-for-dynamic-content) [of](https://stackoverflow.com/questions/27525142/selenium-ajax-dynamic-pagination-base-spider) [the](https://stackoverflow.com/questions/44110505/no-data-after-scraping-a-website) [most](https://stackoverflow.com/questions/41165599/how-to-get-the-href-and-associated-information-using-scrapy) [frequent](https://www.reddit.com/r/learnpython/comments/6ij1qa/trying_to_get_a_url_using_bs4_but_source_code_is/) questions I have encountered concerning Scrapy is how to crawl dynamic pages. People may learn about Scrapy because their goal is to crawl a particular page, but then fail to understand why their Spider returns only empty outputs. 
-You may have run into this problem. Odds are, since you are reading this, you may have this problem right now. I know that I did. 
+
+You may have run into this problem. Odds are, since you are reading this, you may have this problem right now.
 Frequently people will resort to Selenium or Splash or whatever, to simulate a browser in order to crawl a dynamic webpage. In my opinion the likes of Selenium can be overkill for many crawling-tasks, especially if your goal is only to crawl a dynamic webpage. Scrapy is well capable of crawling dynamic pages and by learning how to do it, you will gain many important skills that will help you analyze websites and build better spiders. 
 
 ## What you will learn
@@ -29,3 +30,23 @@ Cue multiple code-reviews, hours of reading and dozens of curses. My spider seem
 ### Use the shell!
 
 The Scrapy shell is a wholly powerful tool, a must for beginners and... wholly underutilized. Beginners start by putting together complex spiders for hours on end only to realize that the spider they have coded is completely unfit for the task at hand. Again, I did too. 
+
+![XKCD]({filename}/images/automation.png)
+
+You can fire up the Scrapy shell as follows:
+
+    > scrapy shell http://www.example.com
+
+Which should greet you with a whole lot of text and a command prompt. What the shell does is basically create a spider for you on the given website that allows you to control it on the fly. The complete spider you programmed (that may have returned nothing) is like a self-driving car: You program the destination and the route into the GPS and off goes the car. 
+
+The shell is like sitting in the car, being able to accelerate, brake, turn and so on. 
+
+In the shell you are able to: 
+
+* Extract contents from a page
+* Fetch, i.e. crawl other pages
+* Fill out forms, login, call functions, etc.
+
+In short, anything you can do in your spider, you can do in the shell. Note, this doesn't mean that you *should* do anything you can do in you spider in the shell. The shell is used primarily for testing and debugging purposes. 
+
+
