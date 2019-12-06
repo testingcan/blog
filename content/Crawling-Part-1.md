@@ -1,8 +1,9 @@
-Title: Crawling dynamically generated content with Scrapy - Part 1
+Title: Crawling dynamically generated content with Scrapy 
 Date: 2017-11-21
 Category: Tutorial
 Tags: scrapy, python
 Summary: Learn how to use the *scrapy shell* to assess why your spider does not return anything or if you need to change your spider.
+Status: published
 
 [One](https://stackoverflow.com/questions/33185651/python-scrapy-for-dynamic-content) [of](https://stackoverflow.com/questions/27525142/selenium-ajax-dynamic-pagination-base-spider) [the](https://stackoverflow.com/questions/44110505/no-data-after-scraping-a-website) [most](https://stackoverflow.com/questions/41165599/how-to-get-the-href-and-associated-information-using-scrapy) [frequent](https://www.reddit.com/r/learnpython/comments/6ij1qa/trying_to_get_a_url_using_bs4_but_source_code_is/) questions I have encountered concerning Scrapy is how to crawl dynamic pages. People may learn about Scrapy because their goal is to crawl a particular page, but then fail to understand why their Spider returns only empty outputs. 
 
@@ -31,7 +32,7 @@ Cue multiple code-reviews, hours of reading and dozens of curses. My spider seem
 
 The Scrapy shell is a wholly powerful tool, a must for beginners and... wholly underutilized. Beginners start by putting together complex spiders for hours on end only to realize that the spider they have coded is completely unfit for the task at hand. Again, I did too. 
 
-![XKCD]({filename}/images/automation.png)
+![XKCD](/assets/images/automation.png)
 *Dont believe anyone who tells you that he will quickly code something! [Source](https://xkcd.com/1319/)*
 
 You can fire up the Scrapy shell as follows:
@@ -55,7 +56,7 @@ In short, anything you can do in your spider, you can do in the shell. Note, thi
 So let's try to use the shell in a real setting with a page we could crawl. Let's take the [International Telecoms Week](https://www.internationaltelecomsweek.com), which is an "annual meeting for the global wholesale telecoms industry" ([Source](https://www.internationaltelecomsweek.com/about-itw)).
 Imagine we would like to crawl the companies attending ITW 2018, which can be looked up [here](https://www.internationaltelecomsweek.com/this-year/companies-attending). If you look at the website you will see that, neat, all the companies are listed on this page. You can scroll through the whole page, without having to worry about pagination or something like that. 
 
-![Companies attending ITW 2018]({filename}/images/itw_companies.png)
+![Companies attending ITW 2018](assets/images/itw_companies.png)
 *Example of the list of companies attending ITW 2018.*
 
 Before we'll even try to get the data, i.e. the attending companies via *xpaths* or *css*, we will look at how the site *looks to our Spider*. For this the shell has a neat little command that let's you view the current response sent to the spider directly in your browser. 
@@ -65,7 +66,7 @@ Before we'll even try to get the data, i.e. the attending companies via *xpaths*
 
 Your browser should now show you the website as we have seen it before, but as you will see, there is a crucial part that is missing: The actual companies! 
 
-![Response in the spider]({filename}/images/itw_response.png)
+![Response in the spider](assets/images/itw_response.png)
 *Oh god, where are my companies?*
 
 And this is exactly why the shell is so helpful when starting out with crawling or even at the beginning of a crawling-project: Instead of spending hours of coding a rough outline of our spider, checking and re-checking the correct *xpaths*, verifying that the spider seems to be correct, digging through Stackoverflow-questions, we have been able to identify with two basics commands, that our spider will indeed be a little more complex than what we would have done otherwise. 
