@@ -19,8 +19,8 @@ It has been said before that the current superhero craze in mainstream cinema is
 craze before, just a marketing coup that will in some years come to pass, after which people won't
 remember much of the countless superhero films. Instead of relegating any explanations to marketing
 geniuses, we could try to think of the superhero craze as a *Sign of the Times* and thus ask
-ourselves: What does it mean that the highest grossing movie is a superhero movie, the blockbuster
-to end all blockbusters (RogerEbert.com)? What does it mean that Marvel can churn out superhero
+ourselves: What does it mean that the highest grossing movie is a superhero movie, "the most blockbuster
+of all blockbusters"? [(Tallerico, 2019)](https://www.rogerebert.com/reviews/avengers-endgame-2019) What does it mean that Marvel can churn out superhero
 movie after superhero movie and people do not tire of it?  
 
 I'll argue that the current blockbuster superhero movie we encounter is not unified under one genre.
