@@ -34,3 +34,5 @@ DEFAULT_METADATA = {
 
 # Theme
 HOME_COVER = 'assets/images/blog_cover.jpg'
+PLUGIN_PATHS = ["pelican-plugins"]
+PLUGINS = ["simple_footnotes"]
