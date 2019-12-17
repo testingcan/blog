@@ -6,13 +6,15 @@ Summary: What is the ideological underbelly of superhero movies?
 Status: draft
 color: black
 
+Note: There are spoilers for *Joker*, *Infinity War* and *Endgame* below!
+
 Having watched *Joker* quite late in its runtime, I had already read most of
 what people had to say about it: From the preliminary media-scare about its
 glorification of violence to the rave reception it received from many people. I
 went in without expecting anything revolutionary. But even with my expectations
 lowered, I was struck by one thing in particular: I found the question as to
 *why* so many people raved about the movie more interesting than anything the
-movie had to say itself. Besides the obligatory compliments for Phoenix's
+movie had to say itself. Aside from the obligatory compliments for Phoenix's
 performance, I kept wondering what it meant that for so many people, the movie
 resonated so deeply, which in turn got me thinking about the wider implications
 of the still present superhero craze.  
@@ -28,7 +30,7 @@ mean that Marvel can churn out superhero movie after superhero movie and people
 do not tire of it?  
 
 I'll argue that the current blockbuster superhero movie we encounter is not
-unified under one genre. The Marvel movies have been described as spy-thrillers,
+unified under one genre[ref]Hot take, I know[/ref]. The Marvel movies have been described as spy-thrillers,
 sci-fi comedies, adventure-movies, etc. However for my analysis, the genre of
 the individual movies do not matter much, as I think that the ideological value
 of the movies lie not in their primarily presented themes (distrust against a
@@ -67,7 +69,7 @@ face and... the blackest eyes*". Even without his supernatural strength and
 resilience, Myers poses a categorial transgression in that he is, to revert back
 to Carroll's definition, *incomplete*. In the same vein one could argue that,
 say, Obadiah Stane from the first Iron Man movie is in some sense incomplete in
-that he challenges Tony Starks cultural values by betraying him and betrying no
+that he challenges Tony Starks cultural values by betraying him and betraying no
 sense of morality.  
 Carroll uses the notion of impurity to posit a general and universal account of
 the horror genre. I don't intend to create a universal und unifying overview
@@ -147,14 +149,14 @@ catalyst for Thanos' plan and our current political climate: In 2019, when
 *Endgame* was released (2018 for *Infinity War*), the ecological crisis we are
 currently facing was already long present in the public mind. And while the
 notion that a blockbuster picks up relevant political and social themes but does
-not address them, is nothing new, the sheer impact of *Endgame* as one of the
+not address them is nothing new, the sheer impact of *Endgame* as one of the
 biggest blockbusters of all time and the continuing domination of superhero
 movies is still interesting, while not surprising; it is not really surprising to see a
 generation that is defined by social instability and an ecological crisis
 looming in the near future attracted towards narratives that posit an
 implicitily *good* status quo that is unquestionably worth defending. Similarly
 to how Stephen King argues for horror as inherently conservative, the
-transgression of supervillains serve as a horrifying Other:
+transgression of supervillains serve as a horrifying other:
 
 > Monstrosity fascinates us because it appeals to the conservative Republican in
 a three-piece suit who resides within all of us. We love and need the concept of
@@ -170,7 +172,7 @@ megalomaniac?
 
 How does the Joker in his eponymous movie play into this struggle between order
 and transgression? If we read superhero movies as struggles between order and
-transgression[ref]which I admit can be a huge generalization[/ref], where the
+transgression[ref]which now after having laid it out, I can admit can be a huge generalization[/ref], where the
 heroes defend the current order against some transgression, we could
 read the oppositely situated supervillain movie as a struggle *against* order.
 Disregarding the question whether *Joker* glorifies its titular hero, the main
@@ -236,3 +238,13 @@ narrative to implicitely posit an inherently *good* status quo that is worth
 defending, the supervillain movie, as *Joker*, posits a transgression for
 transgression's sake. The supervillain can not really challenge the status quo
 in a meaningful way for the audience, lest they become a hero. 
+
+### Literature
+
+Carroll, Noel (1990): The Philosophy of Horror. or Paradoxes of the Heart. Routledge.
+
+Fisher, Mark (2009): Capitalist Realism. Is there no alternative? 0 Books.
+
+IMSDB (2019): Joker. An Origin. https://www.imsdb.com/scripts/Joker.html
+
+Tallerico, Brian (2019): Avengers: Endgame. https://www.imsdb.com/scripts/Joker.html
