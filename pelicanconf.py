@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'testingcan'
+AUTHOR = 'raphael'
 SITENAME = 'Standards & Deviations'
 SITEURL = ''
 
@@ -33,6 +33,16 @@ DEFAULT_METADATA = {
 
 
 # Theme
-HOME_COVER = 'assets/images/blog_cover.jpg'
-PLUGIN_PATHS = ["pelican-plugins"]
+HOME_COVER = 'assets/images/geometry.jpg'
+PLUGIN_PATHS = ["../pelican-plugins"]
 PLUGINS = ["simple_footnotes"]
+
+# Bio
+
+AUTHORS_BIO = {
+	'Raphael': {
+		'name': 'Raphael',
+		'website': 'standardsanddeviations.net',
+		'bio': 'A small blog to organise my thoughts. Sometimes insightful, often rambling.',
+	}
+}

@@ -1,10 +1,10 @@
 title: Order, order! The ideology of superhero movies
 Date: 2019-12-06
 Category:Essay
-Tags: culture, movies
+Tags: 'arts & entertainment'
 Summary: An alternative explanation for the continuing success of superhero movies.
 Status: published
-color: black
+cover: assets/images/order.jpg
 
 Note: There are spoilers for *Joker*, *Infinity War* and *Endgame* below!
 
