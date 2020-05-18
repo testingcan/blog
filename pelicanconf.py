@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'raphael'
 SITENAME = 'Standards & Deviations'
-SITEURL = ''
+SITEURL = 'http://standardsanddeviations.net'
 
 THEME = "../attila/"
 STATIC_PATHS = ['assets']
