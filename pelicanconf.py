@@ -37,6 +37,10 @@ HOME_COVER = 'assets/images/geometry.jpg'
 PLUGIN_PATHS = ["../pelican-plugins"]
 PLUGINS = ["simple_footnotes"]
 
+# Social Widget
+SOCIAL = (('twitter', 'https://twitter.com/stdanddev'),
+	('Github', 'http://github.com/testingcan'))
+
 # Bio
 
 AUTHORS_BIO = {
@@ -46,3 +50,4 @@ AUTHORS_BIO = {
 		'bio': 'A small blog to organise my thoughts. Sometimes insightful, often rambling.',
 	}
 }
+
