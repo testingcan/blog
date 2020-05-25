@@ -44,10 +44,12 @@ SOCIAL = (('twitter', 'https://twitter.com/stdanddev'),
 # Bio
 
 AUTHORS_BIO = {
-	'Raphael': {
+	'raphael': {
 		'name': 'Raphael',
 		'website': 'standardsanddeviations.net',
 		'bio': 'A small blog to organise my thoughts. Sometimes insightful, often rambling.',
+		'cover': 'assets/images/geometry.jpg',
+		'twitter': 'STDandDEV'
 	}
 }
 
