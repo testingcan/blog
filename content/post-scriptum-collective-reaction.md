@@ -1,7 +1,7 @@
-Title: Post-scriptum on collective (re-) action
+Title: Postscript on collective (re-) action
 Date: 2020-06-07
 Category: Essay
-Slug: post-scriptum-collective-reaction
+Slug: postscript-collective-reaction
 cover: assets/images/concert.jpg
 Tags: 'society'
 Summary: #BlackOutTuesday, the pandemic (again) and individual accountability
