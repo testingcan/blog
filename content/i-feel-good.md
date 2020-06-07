@@ -2,6 +2,7 @@ Title: I feel good? How crises produce collective (in-) action
 Date: 2020-05-24
 Category: Essay
 Slug: i-feel-good
+cover: assets/images/concert.jpg
 Tags: 'society'
 Summary: What does it mean when people are clapping and singing for their healthcare professionals when their disadvantages have long been public and voiced? How can it be that, time and time again, in times of crisis, we place so much weight on seemingly harmless but arguably effortless collective acts?
 Status: Published
