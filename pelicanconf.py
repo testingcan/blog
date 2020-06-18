@@ -35,7 +35,8 @@ DEFAULT_METADATA = {
 # Theme
 HOME_COVER = 'assets/images/geometry.jpg'
 PLUGIN_PATHS = ["../pelican-plugins"]
-PLUGINS = ["simple_footnotes"]
+PLUGINS = ["simple_footnotes", "pelican_youtube"]
+PUBLICATIONS_SRC = 'content/pubs.bib'
 
 # Social Widget
 SOCIAL = (('twitter', 'https://twitter.com/stdanddev'),
