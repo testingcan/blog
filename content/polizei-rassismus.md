@@ -1,7 +1,8 @@
 Title: Rassismus in der Polizei nicht als Fehler, sondern als Funktion
 Language: de
-Date: 2020-06-14
-Status: Draft
+Date: 2020-06-18
+Status: Published
+Summary: Kann die Polizei nicht-rassistisch sein? Was wenn Rassismus in einer Institution nicht ein Fehler ist, sondern direkt aus dessen Konzeption entspringt?
 Slug: polizei-rassismus
 Cover: assets/images/polizei-rassismus/cover.png
 
@@ -29,8 +30,6 @@ Die Folge daraus ist ein sich verselbstständigender Prozess, in dem einerseits 
 ## Sicherheit
 
 Bislang haben wir uns nun primär mit den Folgen und Auswirkungen von Racial Profiling als erweiterte Praktik des Konzepts der Delinquenz beschäftigt. Die eigentliche Frage, ob Rassismus - z.B. in Form von Racial Profiling - in der Polizei kein Fehler, sondern eine Folgerichtigkeit sei, ist damit aber noch nicht beantwortet. Es legt eine Antwort nahe, diese beschränkt sich aber bislang nur darauf, dass die Produktion der *anderen Welt* durch Rassismus nur, lapidar gesagt, einfacher ist. Gleichzeitig suggeriert es auch eine *böse Absicht*, gleich einer Verschwörungstheorie, wonach die Polizei insgeheim PoC diskriminiert, um ein Feindbild zu schaffen und sie einfacher fassen zu können. Tatsächlich liegt das Problem aber in der Konzeption der Polizei als Wahrer der sozialen Ordnung.
-
-![Finding a mutilated body](assets/images/polizei-rassismus/jack-the-ripper.png)
 
 „Die Aufgabe der Polizei besteht laut Grundgesetz in der Aufrechterhaltung der inneren Sicherheit“ (BPB, 2008). Auffallend ist hierbei, dass die innere Sicherheit einen notwendigen Gegenpol erfordert. Damit überhaupt ein Konzept von *innerer Sicherheit* bestehen kann, ist ein Konzept der *innern Un-Sicherheit* notwendig.[ref]Obendrein natürlich auch noch das Konzept von *Innen* und *Außen*, was hier aber keine Rolle spielt.[/ref] Wir können uns also gesellschaftliche Sicherheit im Konzept der Polizei als eine Art Achse vorstellen: auf der einen Seite die innere Sicherheit - auf der anderen die innere Unsicherheit. Die Gesellschaft besitzt demnach die Qualität der Sicherheit, die auf dieser Achse variieren kann. Sie kann sicher sein, durch Ereignisse unsicherer gemacht werden, woraufhin die Polizei diese Ereignisse behandeln muss, um die Gesellschaft wieder sicher(er) zu machen.  
 Ausschlaggebend hierfür ist, dass für die Arbeit der Polizei das Konzept der Unsicherheit scheinbar wichtiger ist, als das Konzept der Sicherheit. Die Polizei arbeitet primär negativ: in der Beseitigung von Unsicherheiten durch Festnahme und Verwahrung, durch Gewaltanwendung, selbst die Prävention von Kriminalität in Form von Überwachung besteht aus der Negation möglicher Straftaten. Sicherheit wird negativ hergestellt; indem Unsicherheit bekämpft und unterdrückt wird.
