@@ -1,4 +1,4 @@
-Title: Rassismus in der Polizei nicht als Fehler, sondern als Funktion
+Title: Rassismus in der Polizei - Fehler oder Funktion?
 Language: de
 Date: 2020-06-18
 Status: Published
