@@ -1,7 +1,7 @@
 Title: Lektüre "Abondance et liberté" - Einstieg & Kapitel 1
 Date: 2020-07-18
 Status: Published
-Category: Summary
+Category: Abondance et liberté
 Slug: abondance-et-liberte-1
 Summary: Einstieg und Zusammenfassung des 1. Kapitels: "Critique de la raison écologique"
 Cover: assets/images/abondance/cover.jpg
