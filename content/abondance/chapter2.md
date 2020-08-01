@@ -2,6 +2,7 @@ Title: Abondance et liberté - Kapitel 2 "Souveraineté et propriété"
 Date: 2020-07-23
 Status: Published
 Category: Abondance et liberté
+Tags: Abondance et liberté
 Slug: abondance-et-liberte-2
 Summary: Notizen zum 2. Kapitel: "Souveraineté et propriété"
 Cover: assets/images/abondance/cover2.jpg

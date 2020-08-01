@@ -2,6 +2,7 @@ Title: Abondance et liberté - Kapitel 3 "Le grain et le marché"
 Date: 2020-08-01
 Status: Published
 Category: Abondance et liberté
+Tags: Abondance et liberté
 Slug: abondance-et-liberte-3
 Summary: Notizen zum 3. Kapitel: "Le grain et le marché"
 Cover: assets/images/abondance/cover3.jpg
