@@ -34,6 +34,7 @@ DEFAULT_METADATA = {
 
 # Theme
 HOME_COVER = 'assets/images/geometry.jpg'
+HEADER_COVERS_BY_TAG = {"abondance-et-liberte": "assets/images/abondance/cover.jpg"}
 PLUGIN_PATHS = ["../pelican-plugins"]
 PLUGINS = ["simple_footnotes", "pelican_youtube"]
 PUBLICATIONS_SRC = 'content/pubs.bib'
