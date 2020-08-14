@@ -1,5 +1,8 @@
 title: Lektüre "Abondance et liberté"
+cover: assets/images/abondance/cover2.jpg
 Status: Published
-save_as: output/pages/abondance_et_liberte
-url: tag/abondance-et-liberte.html
+Template: ablib
+save_as: pages/abondance_et_liberte.html
+url: pages/abondance_et_liberte.html
+
 

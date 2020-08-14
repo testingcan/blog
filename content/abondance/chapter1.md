@@ -1,12 +1,14 @@
-Title: Lektüre "Abondance et liberté" - Einstieg & Kapitel 1
+Title:Abondance et liberté - Einstieg & Kapitel 1
 Date: 2020-07-18
 Status: Published
 Category: Abondance et liberté
 Tags: Abondance et liberté
 Slug: abondance-et-liberte-1
-Summary: Einstieg und Zusammenfassung des 1. Kapitels: "Critique de la raison écologique"
+Summary: Einstieg der Lektüre von Pierre Charbonniers "Abondance et liberté" und Zusammenfassung des 1. Kapitels: "Critique de la raison écologique"
 Cover: assets/images/abondance/cover.jpg
 
+Alle Posts zur Lektüre von *Abondance et liberté* sind [hier](tag/abondance-et-liberte) zu finden.
+- - - -
 Auf der Suche nach Antworten in der Corona-Krise bin ich auf [Bruno Latours Kommentar zur Pandemie](http://www.bruno-latour.fr/sites/default/files/downloads/P-202-AOC-ENGLISH_1.pdf) gestoßen, worin er auf ein Buch mit dem unscheinbaren Namen *Abondance et liberté* von Pierre Charbonnier verweist. Latours Beschreibung des Buches ließ Interesse aufkommen, aber spätestens nachdem ich herausfand, dass er in einem Tweet schrieb, dass es schwer sei, die Wichtigkeit dieses Buches zu überschätzen, war klar, dass ich wenigstens versuchen musste es zu lesen. Im Januar 2020 erschienen, ist das Buch laut Verlag eine "noch nie dagewesene Historie". Der Relevanz des Buches, sowie seinem Umfang (sowohl materiell als auch historisch: das Buch umfasst knapp 450 Seiten und mehrere Jahrhunderte) geschuldet, habe ich gedacht: Wie besser ein solch imposantes Werk anzugehen, denn in einer schritt für schritt schriftlichen Aufarbeitung? Ich möchte deshalb versuchen mehr oder weniger regelmäßig meine Lektüre festzuhalten und so versuchen die zentralen Ideen und Ansätze zu erfassen - weniger als Versuch der verständlichen Zusammenfassung des Buches, denn zur Ordnung meiner Gedanken und meines Verständnisses.  
 Fangen wir also mit dem ersten Kapitel an:
 

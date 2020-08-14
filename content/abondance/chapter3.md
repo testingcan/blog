@@ -4,9 +4,11 @@ Status: Published
 Category: Abondance et liberté
 Tags: Abondance et liberté
 Slug: abondance-et-liberte-3
-Summary: Notizen zum 3. Kapitel: "Le grain et le marché"
+Summary: Notizen zum 3. Kapitel: "Le grain et le marché". Vom guten Nutzen der Erde und der Allgegenwärtigkeit der Modernen.
 Cover: assets/images/abondance/cover3.jpg
 
+Alle Posts zur Lektüre von *Abondance et liberté* sind [hier](tag/abondance-et-liberte) zu finden.
+- - - -
 Nachdem wir uns im [letzten Post](abondance-et-liberte-2) der Frage gewidmet haben, wem die Erde gehört, stehen wir nun in Kapitel 3 „Le grain et le marché“ mit einem Stück Land da und fragen uns: „Und jetzt?“  
 Genauer gesagt geht es nach der Aufteilung der Erde und des Bodens im 17. Jahrhundert für die Philosophen und Ökonomen des 18. Jahrhunderts um die Frage nach der optimalen Nutzung der Erde. Das Aufkommen der politischen Ökonomie im 18. Jahrhundert, inklusive seinen Fragen nach dem Regieren, nach einer Regierung, die der Natur des Menschen angemessen ist, ist eine bekannte und vielfach erzählte Geschichte. Aber auch hier geht es Charbonnier nicht um die bekannte Geschichte, sondern um, wie er es bildlich schön darstellt, einen analytischen „Schritt zur Seite“ (91), um so die Beziehung zur Umwelt in der politischen Ökonomie auszugraben. Im Anschluss an die Thematik des zweiten Kapitels wird die Erde im 18. Jahrhundert fein codiert, sie wird zur *Ressource*. Dabei ist aber die Erde nicht die hauptsächliche Ressource, sondern eingebettet in ein Schema aus „sozialen, ökonomischen [und] technischen Beziehungen“ (92). Die Ressource ist nicht die Erde, sondern das was man mit der Erde macht.  
 Wie im zweiten Kapitel geht Charbonnier hier auch wieder anhand zweier Beispiele, den Physiokraten und der Ökonomie Adam Smiths, vor, um anschließend in einer Art analytischem Plot-Twist im Rückgriff auf Fichte den metaphorischen Vorhang zurückzuziehen und den rückblickend offensichtlichen blinden Fleck des Denkens im 18. Jahrhundert aufzuzeigen.

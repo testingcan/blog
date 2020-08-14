@@ -4,9 +4,11 @@ Status: Published
 Category: Abondance et liberté
 Tags: Abondance et liberté
 Slug: abondance-et-liberte-2
-Summary: Notizen zum 2. Kapitel: "Souveraineté et propriété"
+Summary: Notizen zum 2. Kapitel: "Souveraineté et propriété". Wem gehört die Erde und wie kann Eigentum legitimiert werden?
 Cover: assets/images/abondance/cover2.jpg
 
+Alle Posts zur Lektüre von *Abondance et liberté* sind [hier](tag/abondance-et-liberte) zu finden.
+- - - -
 Wem gehört die Erde? Bevor wir auf die zentrale Frage der politischen Philosophie des 17. Jahrhunderts in *Abondance et liberté* zu sprechen kommen, ist ein kleiner Rückgriff nötig, der der Struktur dieser Lektüre bis jetzt geschuldet ist. Während der letzte Post zum ersten Kapitel des Buches die Einleitung dieser Lektüre mit dem Fundament der Analyse Charbonniers darstellte, beginnt nun die tatsächlich methodologisch-historische Arbeit, um die Entwicklung der Beziehung zwischen Überfluss und Autonomie in der Gesellschaft und dem politischen Denken zu untersuchen. Zur Methodologie muss daher zuvor gesagt werden, wie Charbonnier grundsätzlich sein Vorgehen historisch einteilt, was in der eigentlichen Einleitung des Buches zur Sprache kommt (vgl. 9f.).
 
 Die historische Analyse ist eingeteilt in drei größere Blöcke, die von zwei massiven Brüchen getrennt werden. Diese Blöcke sind die „präindustrielle Moderne“ (9), kurz gesagt das Zeitalter der *Erde*, darauf folgend das Zeitalter der *Kohle*, hervorgerufen durch die industrielle Revolution, und schließlich, im noch nicht abgeschlossenen Stadium, das des *Menschen*, das *Anthropozän*, hervorgerufen durch die fortschreitende Zerstörung der Umwelt. Jeder dieser Blöcke brachte und bringt damit unterschiedliche politische Ideale im Bezug zur Umwelt hervor, die sich nicht von diesem Bezug lösen und nur begrenzt ohne ihn verstehen lassen. 

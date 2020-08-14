@@ -7,7 +7,7 @@ Slug: abondance-et-liberte-4
 Summary: Notizen zum 4. Kapitel: "Le nouveau régime écologique". Welche Revolution stellt die Kohle dar? Und wie können Werte wie Freiheit und Gleichheit mit Kolonialismus vereint werden?
 Cover: assets/images/abondance/cover4.jpg
 
-Alle vorherigen Posts zur Lektüre von *Abondance et liberté* sind [hier](tag/abondance-et-liberte) zu finden.
+Alle Posts zur Lektüre von *Abondance et liberté* sind [hier](tag/abondance-et-liberte) zu finden.
 - - - -
 Nach jedem Kapitel stellt sich mir unweigerlich die Frage, wie ich einen neuen Post möglichst passend beginne.[ref]Wie gut mir das bisher gelungen ist, lassen wir hier mal außen vor.[/ref] Tatsächlich konnte aber die Lektüre des vierten Kapitels, „Le nouveau régime écologique“ aber kaum zeitlich treffender sein, als zu diesem Zeitpunkt. Darin zitiert Charbonnier an einer Stelle den englischen Ökonomen William Stanley Jevons, der einen wichtigen Teil des Kapitels ausmacht, wie folgt:
 
