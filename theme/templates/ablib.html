@@ -1,0 +1,103 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }}{% endblock title %}
+
+{% block canonical_url %}
+<link href="{{ SITEURL }}/{{ page.url }}" rel="canonical" />
+{% endblock canonical_url %}
+
+{# <!-- Choosing cover image --> #}
+{% if page.cover %}
+  {% if page.cover|lower|truncate(4, True, '') == "http" %}
+    {% set selected_cover = page.cover %}
+  {% else %}
+    {% set selected_cover = SITEURL+"/"+page.cover %}
+  {% endif %}
+{% elif page.og_image %}
+  {% if page.og_image|lower|truncate(4, True, '') == "http" %}
+    {% set selected_cover = page.og_image %}
+  {% else %}
+    {% set selected_cover = SITEURL+"/"+page.og_image %}
+  {% endif %}
+{% elif HEADER_COVER %}
+  {% if HEADER_COVER|lower|truncate(4, True, '') == "http" %}
+    {% set selected_cover = HEADER_COVER %}
+  {% else %}
+    {% set selected_cover = SITEURL+"/"+HEADER_COVER %}
+  {% endif %}
+{% elif page.color %}
+  {% set selected_color = page.color %}
+{% elif HEADER_COLOR %}
+  {% set selected_color = HEADER_COLOR %}
+{% endif %}
+
+{% block header %}
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header id="post-header" {% if selected_cover or selected_color %}class="has-cover"{% endif %}>
+      <div class="inner">
+        <nav id="navigation">
+          {% if SITE_LOGO %}
+            <span class="blog-logo">
+                <a href="{{ SITEURL }}/"><img src="{{SITE_LOGO}}" alt="Blog Logo" /></a>
+            </span>
+          {% else %}
+            <span id="home-button" class="nav-button">
+                <a class="home-button" href="{{ SITEURL }}/" title="Home"><i class="ic ic-arrow-left"></i> Home</a>
+            </span>
+          {% endif %}
+          <span id="menu-button" class="nav-button">
+            <a class="menu-button"><i class="ic ic-menu"></i> Menu</a>
+          </span>
+        </nav>
+        <h1 class="post-title">{{ page.title }}</h1>
+            <div class="post-cover cover" style="background-image: url('http://standardsanddeviations.net/assets/images/abondance/cover2.jpg')">
+      </div>
+    </header>
+{% endblock header %}
+
+{% block content %}
+  <!-- Post content -->
+  <main class="content" role="main">
+		   {% for article in collations.abondance_et_liberté_articles|reverse %}
+        <article class="post">
+        <div class="inner">
+            <header class="post-header">
+                <h2 class="post-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title[23:] }}</a>
+                </h2>
+                <span class="post-meta">
+                    {% for author in article.authors %}
+                        {% set author_name = author.name | title %}
+                        {% if AUTHORS_BIO and author.name.lower() in AUTHORS_BIO %}
+                            {% set author_name = AUTHORS_BIO[author.name.lower()].name or author.name %}
+                        {% endif %}
+                        <a href="{{ SITEURL }}/{{ author.url }}">{{ author_name }}</a>
+                    {% endfor %}
+                     | <time datetime="{{ article.locale_date }}">{{ article.locale_date }}</time>
+                </span>
+                <div class="clear"></div>
+            </header>
+            {% if SHOW_FULL_ARTICLE %}
+                <section class="post-content">
+                {{ article.content }}
+                </section>
+            {% else %}
+                <section class="post-excerpt">
+                    <p>
+                    {% if article.has_summary %}
+                        {{ article.summary }}
+                    {% elif article.summary %}
+                        {{ article.summary|striptags|truncate(250) }}
+                    {% endif %}
+                    </p>
+                </section>
+            {% endif %}
+            {% include 'partials/comments_count.html' %}
+            </div>
+        </article>
+			   {% endfor %}
+
+				{% include "partials/pagination.html" %}
+  </main>
+{% endblock content %}
+
