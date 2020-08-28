@@ -6,7 +6,7 @@ AUTHOR = 'raphael'
 SITENAME = 'Standards & Deviations'
 SITEURL = 'http://standardsanddeviations.net'
 
-THEME = "../attila/"
+THEME = "theme"
 STATIC_PATHS = ['assets']
 
 PATH = 'content'
@@ -35,7 +35,7 @@ DEFAULT_METADATA = {
 # Theme
 HOME_COVER = 'assets/images/geometry.jpg'
 HEADER_COVERS_BY_TAG = {"abondance-et-liberte": "assets/images/abondance/cover.jpg"}
-PLUGIN_PATHS = ["../pelican-plugins"]
+PLUGIN_PATHS = ["plugins"]
 PLUGINS = ["simple_footnotes", "pelican_youtube", "collate_content"]
 PUBLICATIONS_SRC = 'content/pubs.bib'
 
